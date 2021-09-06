@@ -5,8 +5,8 @@ import HootsuitSummary from "./components/HootsuiteSummary/HootsuiteSummary";
 import Footer from "./components/footer/Footer";
 import { BrowserRouter } from "react-router-dom";
 // import Services from "./components/Services/plateforms.jsx";
-// import SignIn from "./components/SignIn/signin.jsx";
-// import SignUp from "./components/SignUp/signup";
+import SignIn from "./components/SignIn/Signin.jsx";
+import SignUp from "./components/SignUp/signup";
 
 function App() {
   return (
@@ -15,6 +15,8 @@ function App() {
         <Header />
         <HootsuitSummary />
         <Footer />
+        <SignIn />
+        <SignUp />
       </div>
     </BrowserRouter>
   );

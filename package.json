@@ -8,6 +8,7 @@
     "bootstrap": "^5.1.0",
     "bootstrap-icons": "^1.5.0",
     "cra-template": "1.1.2",
+    "hooks": "^0.3.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-responsive-carousel": "^3.2.21",
@@ -40,5 +41,19 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rahul-Bhojani/hootsuite-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rahul-Bhojani/hootsuite-demo/issues"
+  },
+  "homepage": "https://github.com/Rahul-Bhojani/hootsuite-demo#readme"
 }
