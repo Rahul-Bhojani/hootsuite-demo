@@ -108,7 +108,7 @@ const Header = (props) => {
           >
             SignUP <AccountCircle />
           </Button> */}
-          <Link to="/signIn.jsx" className={classes.signinbtn}>
+          <Link to="/signIn.js" className={classes.signinbtn}>
             SignIn
           </Link>
           <Link to="/signUp" className={classes.signupbtn}>
